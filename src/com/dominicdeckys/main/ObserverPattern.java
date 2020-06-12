@@ -40,12 +40,6 @@ public class ObserverPattern {
 		}
 		
 	}
-	
-//	private static void displayAll(ArrayList<Displayer> displays) {
-//		for (Displayer d: displays) {
-//			d.display();
-//		}
-//	}
 
 }
 
